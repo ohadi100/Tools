@@ -5,6 +5,8 @@
 #include <stdexcept>
 #include <chrono>
 
+//comment
+
 class SpinlockGuard
 {
 public:
